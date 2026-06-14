@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Web Scraper to CSV",
+  "version": "1.0",
+  "description": "Web Scraper to CSV powered by AI.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
